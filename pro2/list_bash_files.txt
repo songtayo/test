@@ -1,0 +1,4 @@
+-rw-------  1 dcu  dcu       3716 12월 15 10:16 .bash_history
+-rw-r--r--  1 dcu  dcu        220 11월 21 10:36 .bash_logout
+-rw-r--r--  1 dcu  dcu       3840 12월 12 09:54 .bashrc
+-rw-rw-r--  1 dcu  dcu          0 12월 15 10:24 list_bash_files.txt

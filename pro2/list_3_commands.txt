@@ -1,0 +1,4 @@
+head -n 15 list1.txt list2.txt > list_total.txt
+tail -n 15 list1.txt list2.txt >> list_total.txt
+head -n 15 list1.txt | tail -n 5 > rear_5_out_of_front_15.txt
+ls -laF | grep bash > list_bash_files.txt

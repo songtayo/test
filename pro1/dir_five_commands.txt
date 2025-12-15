@@ -1,0 +1,5 @@
+cd /home/will/work/wrok3
+cd ../../usr/test2/test3
+cd /usr/test2/test4
+cd ../../../../usr/test2/test3/test6
+sudo mkdir test
